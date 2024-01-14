@@ -1,6 +1,6 @@
 ## ✨Visitor Count
 <div align="center">
-    <img height="175px" src="https://profile-counter.glitch.me/Christmas/count.svg">
+    <img src="https://profile-counter.glitch.me/Christmas/count.svg">
 </div>
 
 ## 📈 Github Statistics
