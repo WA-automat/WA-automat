@@ -1,3 +1,6 @@
+## ✨Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 ## 📈 Github Statistics
 
 <div align="center">
